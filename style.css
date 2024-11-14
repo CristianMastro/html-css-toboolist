@@ -7,6 +7,7 @@
 
 html {
     background-color:#F6F8F9 ;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 /* CUSTOM HEADER */
@@ -25,9 +26,8 @@ header {
 
 .button-contenitor {
     width: 80%;
-    margin: 50px auto;
+    margin: 50px auto 5px;
     background-color: white;
-    font-family: Arial, Helvetica, sans-serif;
     font-size: smaller;
     height: 60px;
     border-radius: 5px;
@@ -49,3 +49,40 @@ header {
     background-color: white;
     border: solid 1px #D3D8DC;
 }
+
+/*END*/
+
+/*MAIN SECTION*/
+
+#main-section {
+    width: 80%;
+    background-color: white;
+    margin: auto;
+    border-radius: 5px;
+}
+
+.title-todo-list {
+    margin-left: 70px;
+    font-weight: bold;
+    padding-top: 30px;
+}
+
+/*ITEM TODOLIST*/
+
+.check-box-done {
+    color: #5BD3BE;
+    border: solid 1px;
+    border-radius: 999px;
+    font-size: x-small;
+    text-align: center;
+    display: inline-block;
+    height: 24px;
+    width: 24px;
+    margin: 20px 10px 0 70px;
+}
+
+.todo-list-text {
+    display: inline;
+    font-weight: lighter;
+}
+
