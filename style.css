@@ -1,0 +1,23 @@
+/* REGOLE CSS*/
+* {
+    margin: 0;
+    border: 0;
+    box-sizing: border-box;
+}
+
+html {
+    background-color:#F6F8F9 ;
+}
+
+/* CUSTOM HEADER */
+
+header {
+    background-color: white;
+}
+
+#logo {
+    padding: 5px 0 5px 10px;
+}
+
+/*END*/
+
