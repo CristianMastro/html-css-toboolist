@@ -21,3 +21,31 @@ header {
 
 /*END*/
 
+/*BUTTON SECTION*/
+
+.button-contenitor {
+    width: 80%;
+    margin: 50px auto;
+    background-color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: smaller;
+    height: 60px;
+    border-radius: 5px;
+}
+
+.button {
+    padding: 8px 12px;
+    border-radius: 10px;
+    display: inline-block;
+    margin: 12px 0 12px 0;
+}
+
+.task {
+    background-color:#14AAF5;
+    margin-left: 70px;
+}
+
+.section {
+    background-color: white;
+    border: solid 1px #D3D8DC;
+}
