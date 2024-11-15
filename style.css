@@ -10,6 +10,10 @@ html {
     font-family: Arial, Helvetica, sans-serif;
 }
 
+body {
+    height: 900px;
+}
+
 /* CUSTOM HEADER */
 
 header {
@@ -59,6 +63,7 @@ header {
     background-color: white;
     margin: auto;
     border-radius: 5px;
+    height: 650px;
 }
 
 .title-todo-list {
@@ -86,3 +91,41 @@ header {
     font-weight: lighter;
 }
 
+.todo-list-category {
+    color: white;
+    font-size: xx-small;
+    padding: 5px 10px 5px 10px;
+    border-radius: 40px;
+    text-align: center;
+    display:inline-block ;
+}
+
+/*CATEGORY COLOR*/
+
+.red {
+    color: red;
+}
+
+.editorial {
+    background-color: #09A9ED;
+}
+
+.goals {
+    background-color: #9E57D4;
+}
+
+.recruiting {
+    background-color:#2CC6AB;
+}
+
+.mobile {
+    background-color: #E78E03;
+}
+
+.website{
+    background-color:#EC4A9D ;
+}
+
+.sales {
+    background-color:#A3D116 ;
+}
