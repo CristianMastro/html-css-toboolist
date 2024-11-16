@@ -69,6 +69,11 @@ header {
     padding-top: 30px;
 }
 
+.cross-down {
+    font-size: x-small;
+    padding: 0 5px 0 5px;
+}
+
 /*ITEM TODOLIST*/
 
 .check-box-done {
@@ -80,7 +85,7 @@ header {
     display: inline-block;
     height: 24px;
     width: 24px;
-    margin: 20px 10px 0 70px;
+    margin: 20px 5px 0 70px;
 }
 
 .todo-list-text {
